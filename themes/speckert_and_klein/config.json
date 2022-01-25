@@ -1,0 +1,9 @@
+{
+  "name": "Speckert & Klein",
+  "author": "Marketing Monkeys",
+  "authorUrl": "https://www.marketingmonkeys.ch/",
+  "builder": "grapesjsbuilder",
+  "features": [
+    "email"
+  ]
+}
